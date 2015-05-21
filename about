@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+
+	<!-- Optional theme -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="stylesheet" type="text/css" href="main.css">
+</head>
+
+<body>
+<div>
+
+<div class="top">
+
+<div  class="container" class="column">
+	<img src="lnr_logo.png" alt="Grounded logo" id="logo">
+<ul id="menu2">
+	<li>
+		<a href="#">About</a>
+		<ul>
+			<li>
+				<a href="#">Process</a>
+			</li>
+			<li>
+				<a href="#">Values</a>
+			</li>
+			<li>
+				<a href="#">Bio</a>
+			</li>
+		</ul>
+	<li>
+	<li>
+		<a href="#">Services</a>
+		<ul>
+			<li>
+				<a href="#">User Experience</a>
+			</li>
+			<li>
+				<a href="#">User Interface</a>
+			</li>
+			<li>
+				<a href="#">Brand Identity</a>
+			</li>
+			<li>
+				<a href="#">Digital Arts</a>
+			</li>
+		</ul>
+	<li>
+	<li>
+		<a href="#">Work</a>
+		<ul>
+			<li>
+				<a href="#">Get It</a>
+			</li>
+			<li>
+				<a href="#">True Spirit</a>
+			</li>
+			<li>
+				<a href="#">Opower</a>
+			</li>
+			<li>
+				<a href="#">Ticket Punch</a>
+			</li>
+			<li>
+				<a href="#">Misc</a>
+			</li>
+		</ul>
+	<li>
+	<li>
+		<a href="#">Blog</a>
+	<li>
+	<li>
+		<a href="#">Contact</a>
+	<li>
+</ul>
+
+<!--
+		<nav id="menu">
+			<ul>
+				<li><a href="">About</a></li>
+				<li><a href="">Services</a></li>
+				<li><a href="">Work</a></li>
+				<li><a href="">Blog</a></li>
+				<li><a href="">Contact</a></li>
+			</ul>
+		</nav>
+-->
+</div>
+
+
+<div class="row" id="picture" id="picturetext">
+	<div class="col-md-2">
+	</div>
+	<div class="col-md-8">
+		<!--
+		<h1 id="picturetext">Design that strengthens definition.</h1>
+	-->
+	</div>
+	<div class="col-md-2">
+	</div>
+</div>
+
+</div>
+
+<section>
+
+
+<div class="row">
+	<div class="col-md-6">
+		<p>lkjdklfa</p>
+	</div>
+	<div class="col-md-6">
+		<p>lkjdklfa</p>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-6">
+		<p>lkjdklfa</p>
+	</div>
+	<div class="col-md-6">
+		<p>lkjdklfa</p>
+	</div>
+</div>
+
+
+</section>
+
+
+
+</div>
+
+<!-- Latest compiled and minified JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-63256901-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</body>
+
+</html>
